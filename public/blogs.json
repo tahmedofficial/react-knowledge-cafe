@@ -7,7 +7,7 @@
         "author": "Jane Doe",
         "author_img": "https://i.ibb.co/GR0KHch/9883.jpg",
         "posted_date": "August 5, 2023",
-        "reading_time": "10 mins",
+        "reading_time": 16,
         "hashtags": [
             "adventure",
             "exploration",
@@ -22,7 +22,7 @@
         "author": "John Smith",
         "author_img": "https://i.ibb.co/JFpkXx6/man-stands-front-stacks-books-library.jpg",
         "posted_date": "March 10, 2024",
-        "reading_time": "15 mins",
+        "reading_time": 15,
         "hashtags": [
             "nature",
             "mystery",
@@ -37,7 +37,7 @@
         "author": "Emily Johnson",
         "author_img": "https://i.ibb.co/SPXFbh8/9861.jpg",
         "posted_date": "November 27, 2023",
-        "reading_time": "12 mins",
+        "reading_time": 12,
         "hashtags": [
             "dreams",
             "imagination",
@@ -52,7 +52,7 @@
         "author": "Michael Brown",
         "author_img": "https://i.ibb.co/GR0KHch/9883.jpg",
         "posted_date": "August 25, 2023",
-        "reading_time": "8 mins",
+        "reading_time": 8,
         "hashtags": [
             "technology",
             "innovation",
@@ -67,7 +67,7 @@
         "author": "Sara Lee",
         "author_img": "https://i.ibb.co/JFpkXx6/man-stands-front-stacks-books-library.jpg",
         "posted_date": "September 19, 2023",
-        "reading_time": "20 mins",
+        "reading_time": 20,
         "hashtags": [
             "cooking",
             "foodie",

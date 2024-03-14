@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "The Adventure Begins",
+        "cover_img": "https://i.ibb.co/JnRqCkM/48267.jpg",
+        "title": "Exploring the Unknown",
+        "author": "Jane Doe",
+        "author_img": "https://i.ibb.co/GR0KHch/9883.jpg",
+        "posted_date": "August 5, 2023",
+        "reading_time": "10 mins",
+        "hashtags": [
+            "adventure",
+            "exploration",
+            "travel"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Secrets of the Forest",
+        "cover_img": "https://i.ibb.co/xGszzp8/29174389-blog.jpg",
+        "title": "Unraveling Mysteries",
+        "author": "John Smith",
+        "author_img": "https://i.ibb.co/JFpkXx6/man-stands-front-stacks-books-library.jpg",
+        "posted_date": "March 10, 2024",
+        "reading_time": "15 mins",
+        "hashtags": [
+            "nature",
+            "mystery",
+            "discovery"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "In the Realm of Dreams",
+        "cover_img": "https://i.ibb.co/C7tjXfD/2148430815.jpg",
+        "title": "Journey to Imagination",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/SPXFbh8/9861.jpg",
+        "posted_date": "November 27, 2023",
+        "reading_time": "12 mins",
+        "hashtags": [
+            "dreams",
+            "imagination",
+            "fantasy"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Tech Revolution",
+        "cover_img": "https://i.ibb.co/JnRqCkM/48267.jpg",
+        "title": "Shaping Tomorrow",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co/GR0KHch/9883.jpg",
+        "posted_date": "August 25, 2023",
+        "reading_time": "8 mins",
+        "hashtags": [
+            "technology",
+            "innovation",
+            "future"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Cooking Adventures",
+        "cover_img": "https://i.ibb.co/xGszzp8/29174389-blog.jpg",
+        "title": "Culinary Delights",
+        "author": "Sara Lee",
+        "author_img": "https://i.ibb.co/JFpkXx6/man-stands-front-stacks-books-library.jpg",
+        "posted_date": "September 19, 2023",
+        "reading_time": "20 mins",
+        "hashtags": [
+            "cooking",
+            "foodie",
+            "recipes"
+        ]
+    }
+]
